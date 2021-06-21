@@ -61,7 +61,7 @@ print(f"Computer Final Score= {cp}")
 print(f"Number of draw: {drw}") 
 print(f"Entered invalid numbers: {ev}")  
 if hp>cp:
-    print("You Won the game!!")
+    print("Congratulations!! You Won the game")
 if cp>hp:
     print("Computer Won the game!")
 if cp==hp:
